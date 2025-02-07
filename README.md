@@ -6,11 +6,11 @@ The modpack is hosted as a `packwiz` modpack on GitHub for ease of distribution.
 
 # Installation
 
-There are two ways to install, from Pages, or from repository. I would recommend you install from Pages.
+There are two ways to install, from Releases, or from repository. I would recommend you install from Releases.
 
-## From Pages
+## From Releases
 
-This method installs from the linked GitHub Pages page.
+This method installs from the linked GitHub Releases tab.
 
 ### Requirements
 
