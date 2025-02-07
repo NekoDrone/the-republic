@@ -20,8 +20,9 @@ Prism, MultiMC, ATLauncher, or any other multi-instance minecraft launcher that 
 
 1. Download the pack [here]() (NYI)
 2. Import it into your launcher of choice `Import from zip`.
+3. Launch it. Errors will occur as some files are excluded from the CurseForge API. Resolve these yourself (Instructions are listed on the installer window).
 
-On the first launch, the installer utility will handle downloading the mods and configs for you automatically.
+On the first launch, the installer utility will handle downloading the mods and configs for you automatically. (Except the files excluded from the API).
 
 On subsequent launches, the installer utility checks the GitHub Page for any updates to the modpack's metadata and automatically keeps you updated with the other players on the server.
 
