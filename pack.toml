@@ -1,0 +1,13 @@
+name = "The Republic"
+author = "[REDACTED] Serenity Tan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "20f3f0cca9d9d038630df9bfdb988cf030007775fc6871df09812579d6c9fe20"
+
+[versions]
+forge = "40.3.0"
+minecraft = "1.18.2"

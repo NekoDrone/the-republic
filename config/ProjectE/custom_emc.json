@@ -1,0 +1,284 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:furnace",
+      "emc": 8
+    },
+    {
+      "item": "tconstruct:mighty_smelting",
+      "emc": 154
+    },
+    {
+      "item": "tconstruct:tinkers_gadgetry",
+      "emc": 144
+    },
+    {
+      "item": "tconstruct:clear_glass",
+      "emc": 1
+    },
+    {
+      "item": "fluxnetworks:flux_dust",
+      "emc": 64
+    },
+    {
+      "item": "tconstruct:cobalt_ingot",
+      "emc": 4096
+    },
+    {
+      "item": "tconstruct:rose_gold_ingot",
+      "emc": 1088
+    },
+    {
+      "item": "tconstruct:mud_bricks",
+      "emc": 1
+    },
+    {
+      "item": "ars_nouveau:source_berry",
+      "emc": 16
+    },
+    {
+      "item": "ars_nouveau:source_gem",
+      "emc": 1024
+    },
+    {
+      "item": "draconicevolution:small_chaos_frag",
+      "emc": 524288
+    },
+    {
+      "item": "draconicevolution:draconium_dust",
+      "emc": 4096
+    },
+    {
+      "item": "draconicevolution:draconium_ingot",
+      "emc": 4096
+    },
+    {
+      "item": "draconicevolution:dragon_heart",
+      "emc": 262144
+    },
+    {
+      "item": "reliquary:angelheart_vial",
+      "emc": 131072
+    },
+    {
+      "item": "tconstruct:necrotic_bone",
+      "emc": 288
+    },
+    {
+      "item": "tconstruct:ichor_slime_ball",
+      "emc": 32
+    },
+    {
+      "item": "tconstruct:blood_slime_ball",
+      "emc": 32
+    },
+    {
+      "item": "tconstruct:ender_slime_ball",
+      "emc": 32
+    },
+    {
+      "item": "tconstruct:sky_slime_ball",
+      "emc": 32
+    },
+    {
+      "item": "thermal:blizz_rod",
+      "emc": 1536
+    },
+    {
+      "item": "thermal:blitz_rod",
+      "emc": 1536
+    },
+    {
+      "item": "thermal:basalz_rod",
+      "emc": 1536
+    },
+    {
+      "item": "thermal:apatite",
+      "emc": 108
+    },
+    {
+      "item": "thermal:cinnabar",
+      "emc": 432
+    },
+    {
+      "item": "create:brass_sheet",
+      "emc": 128
+    },
+    {
+      "item": "create:brass_ingot",
+      "emc": 128
+    },
+    {
+      "item": "create:brass_casing",
+      "emc": 160
+    },
+    {
+      "item": "create:andesite_casing",
+      "emc": 92
+    },
+    {
+      "item": "thermal:quartz_dust",
+      "emc": 256
+    },
+    {
+      "item": "thermal:emerald_dust",
+      "emc": 16384
+    },
+    {
+      "item": "thermal:diamond_dust",
+      "emc": 8192
+    },
+    {
+      "item": "thermal:ender_pearl_dust",
+      "emc": 1024
+    },
+    {
+      "item": "thermal:lapis_dust",
+      "emc": 864
+    },
+    {
+      "item": "thermal:iron_dust",
+      "emc": 256
+    },
+    {
+      "item": "thermal:iron_plate",
+      "emc": 256
+    },
+    {
+      "item": "thermal:gold_dust",
+      "emc": 2048
+    },
+    {
+      "item": "thermal:gold_plate",
+      "emc": 2048
+    },
+    {
+      "item": "thermal:copper_dust",
+      "emc": 128
+    },
+    {
+      "item": "thermal:copper_plate",
+      "emc": 128
+    },
+    {
+      "item": "thermal:netherite_dust",
+      "emc": 57339
+    },
+    {
+      "item": "thermal:netherite_plate",
+      "emc": 57339
+    },
+    {
+      "item": "thermal:tin_dust",
+      "emc": 256
+    },
+    {
+      "item": "thermal:tin_plate",
+      "emc": 256
+    },
+    {
+      "item": "thermal:lead_dust",
+      "emc": 512
+    },
+    {
+      "item": "thermal:lead_plate",
+      "emc": 512
+    },
+    {
+      "item": "thermal:silver_dust",
+      "emc": 512
+    },
+    {
+      "item": "thermal:silver_plate",
+      "emc": 512
+    },
+    {
+      "item": "thermal:lumium_plate",
+      "emc": 594
+    },
+    {
+      "item": "thermal:lumium_dust",
+      "emc": 594
+    },
+    {
+      "item": "thermal:signalum_plate",
+      "emc": 369
+    },
+    {
+      "item": "thermal:signalum_dust",
+      "emc": 369
+    },
+    {
+      "item": "thermal:constantan_dust",
+      "emc": 738
+    },
+    {
+      "item": "thermal:constantan_plate",
+      "emc": 738
+    },
+    {
+      "item": "thermal:invar_plate",
+      "emc": 621
+    },
+    {
+      "item": "thermal:invar_dust",
+      "emc": 621
+    },
+    {
+      "item": "thermal:electrum_plate",
+      "emc": 1440
+    },
+    {
+      "item": "thermal:electrum_dust",
+      "emc": 1440
+    },
+    {
+      "item": "thermal:bronze_plate",
+      "emc": 160
+    },
+    {
+      "item": "thermal:bronze_dust",
+      "emc": 160
+    },
+    {
+      "item": "thermal:nickel_plate",
+      "emc": 1024
+    },
+    {
+      "item": "thermal:nickel_dust",
+      "emc": 1024
+    },
+    {
+      "item": "thermal:enderium_plate",
+      "emc": 5888
+    },
+    {
+      "item": "thermal:enderium_dust",
+      "emc": 5888
+    },
+    {
+      "item": "minecraft:brown_dye",
+      "emc": 8
+    },
+    {
+      "item": "minecraft:netherite_ingot",
+      "emc": 57339
+    },
+    {
+      "item": "projecte:transmutation_table",
+      "emc": 260
+    },
+    {
+      "item": "projecte:transmutation_tablet",
+      "emc": 2228548
+    },
+    {
+      "item": "projecte:alchemical_chest",
+      "emc": 9150
+    },
+    {
+      "item": "extendedexchange:energy_link",
+      "emc": 467408
+    }
+  ]
+}

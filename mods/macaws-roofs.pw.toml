@@ -1,0 +1,13 @@
+name = "Macaw's Roofs"
+filename = "mcw-roofs-2.3.1-mc1.18.2forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45b4a26829f82b3c7d6a4a0108fb184e6c935ef8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5554950
+project-id = 352039

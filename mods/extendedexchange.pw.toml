@@ -1,0 +1,13 @@
+name = "ExtendedExchange"
+filename = "extendedexchange-1802.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c15c57956d35119d8b178b32961fa3eeb31a93c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4109902
+project-id = 681874
