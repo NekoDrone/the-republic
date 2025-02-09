@@ -20,11 +20,14 @@ Prism, MultiMC, ATLauncher, or any other multi-instance minecraft launcher that 
 
 1. Download the pack [here](https://github.com/NekoDrone/the-republic/releases)
 2. Import it into your launcher of choice `Import from zip`.
-3. Launch it. Errors will occur as some files are excluded from the CurseForge API. Resolve these yourself (Instructions are listed on the installer window). Just download the mod manually, and add it to the instance folder as instructed.
+3. Ensure that your Java settings are proper. `Settings > Java > General > Java Runtime > Auto-detect`. This pack uses Java 17.
+3. Launch it.
 
-On the first launch, the installer utility will handle downloading the mods and configs for you automatically. (Except the files excluded from the API).
+On the first launch, the installer utility will handle downloading the mods and configs for you automatically. (Except the files excluded from the API, which are distributed in the zip).
 
 On subsequent launches, the installer utility checks the GitHub Page for any updates to the modpack's metadata and automatically keeps you updated with the other players on the server.
+
+---
 
 ## From repository
 
