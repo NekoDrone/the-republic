@@ -2563,6 +2563,11 @@ hash = "787229fad8668970e54a2484195f947c5b51323ca296b3c783340137f41b1b05"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "fabe374a0724338ae2de0d4d91ba68f23f0806769e5d377fc796233a2ef1ffd5"
+metafile = true
+
+[[files]]
 file = "mods/extendedexchange.pw.toml"
 hash = "887e8089b4e35692add301c1662e1f9ff22f5e5f2ded8ae168d160ea1cacb834"
 metafile = true
@@ -2995,6 +3000,11 @@ metafile = true
 [[files]]
 file = "mods/mythicbotany.pw.toml"
 hash = "548b6245f3345e5a1a1754022c03a6f359ac76803e6fd57ef7ec0e7ddf9867cd"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
 
 [[files]]
