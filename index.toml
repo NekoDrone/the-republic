@@ -2478,6 +2478,11 @@ hash = "ee0a0574fbd3901b7a8d2206f1ebba41b3678de4bb7b3d7d779d8fb36f16e820"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "201fbdb672e83a6e12269409aae0445e14f65d2def938668269c5bcf6a2f62da"
+metafile = true
+
+[[files]]
 file = "mods/ctm.pw.toml"
 hash = "aaeab662940679b8ef5074189d480bd04934334bc32d29931538c8bf2d7050cd"
 metafile = true
@@ -2810,6 +2815,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "38fbc001be74391f468243701fbde93eef6e067a433cdcd84acb7d0750b7054d"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
 
 [[files]]
@@ -3284,7 +3294,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "69d06ddacec01d95fa77be07b7303b7cd10362dca922d13509649cb9ef8dbdc5"
+hash = "e7c98953cef9e9fd975c71acd8d6766b2ac940c2536b777ac09c0652efd2df2c"
 metafile = true
 
 [[files]]
