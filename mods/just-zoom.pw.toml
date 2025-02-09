@@ -1,0 +1,13 @@
+name = "Just Zoom"
+filename = "justzoom_forge_2.0.0_MC_1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8cadd78f2b0a854d6f3adac34571321621e338dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5402644
+project-id = 561885
