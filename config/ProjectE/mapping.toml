@@ -313,6 +313,74 @@
 		#ProjectE-Integration Recipe Mapper for Somting Thermal Brewer Mapper. Required Mods: [thermal]
 		enabled = true
 
+	[CraftingMapper.ImmersiveEngineeringMixerMapper]
+		#ProjectE-Integration Recipe Mapper for Immersive Engineering Mixer Mapper. Required Mods: [immersiveengineering]
+		enabled = true
+
+	[CraftingMapper.ChippedLoomTableMapper]
+		#ProjectE-Integration Recipe Mapper for Chipped Loom Table Mapper. Required Mods: [chipped]
+		enabled = true
+
+	[CraftingMapper.ImmersiveEngineeringMetalPressMapper]
+		#ProjectE-Integration Recipe Mapper for Immersive Engineering Metal Press Mapper. Required Mods: [immersiveengineering]
+		enabled = true
+
+	[CraftingMapper.ChippedAlchemyBenchMapper]
+		#ProjectE-Integration Recipe Mapper for Chipped Alchemy Bench Mapper. Required Mods: [chipped]
+		enabled = true
+
+	[CraftingMapper.AvaritiaCompressorMapper]
+		#ProjectE-Integration Recipe Mapper for Avaritia Compressor Mapper. Required Mods: [avaritia]
+		enabled = true
+
+	[CraftingMapper.ChippedBotanistWorkbenchMapper]
+		#ProjectE-Integration Recipe Mapper for Chipped Botanist Workbench Mapper. Required Mods: [chipped]
+		enabled = true
+
+	[CraftingMapper.ChippedMasonTableMapper]
+		#ProjectE-Integration Recipe Mapper for Chipped Mason Table Mapper. Required Mods: [chipped]
+		enabled = true
+
+	[CraftingMapper.ImmersiveEngineeringBlastFurnaceMapper]
+		#ProjectE-Integration Recipe Mapper for Immersive Engineering Blast Furnace Mapper. Required Mods: [immersiveengineering]
+		enabled = true
+
+	[CraftingMapper.ImmersiveEngineeringCokeOvenMapper]
+		#ProjectE-Integration Recipe Mapper for Immersive Engineering Coke Oven Mapper. Required Mods: [immersiveengineering]
+		enabled = true
+
+	[CraftingMapper.PsiTrickMapper]
+		#ProjectE-Integration Recipe Mapper for Psi Trick Mapper. Required Mods: [psi]
+		enabled = true
+
+	[CraftingMapper.ImmersiveEngineeringSawmillMapper]
+		#ProjectE-Integration Recipe Mapper for Immersive Engineering Sawmill Mapper. Required Mods: [immersiveengineering]
+		enabled = true
+
+	[CraftingMapper.AvaritiaExtremeCraftingMapper]
+		#ProjectE-Integration Recipe Mapper for Avaritia Extreme Crafting Mapper. Required Mods: [avaritia]
+		enabled = true
+
+	[CraftingMapper.ChippedCarpentersTableMapper]
+		#ProjectE-Integration Recipe Mapper for Chipped Carpenters Table Mapper. Required Mods: [chipped]
+		enabled = true
+
+	[CraftingMapper.ChippedMechanistWorkbenchMapper]
+		#ProjectE-Integration Recipe Mapper for Chipped Mechanist Workbench Mapper. Required Mods: [chipped]
+		enabled = true
+
+	[CraftingMapper.ChippedGlassblowerMapper]
+		#ProjectE-Integration Recipe Mapper for Chipped Glassblower Mapper. Required Mods: [chipped]
+		enabled = true
+
+	[CraftingMapper.ImmersiveEngineeringAlloyMapper]
+		#ProjectE-Integration Recipe Mapper for Immersive Engineering Alloy Mapper. Required Mods: [immersiveengineering]
+		enabled = true
+
+	[CraftingMapper.ImmersiveEngineeringCrusherMapper]
+		#ProjectE-Integration Recipe Mapper for Immersive Engineering Crusher Mapper. Required Mods: [immersiveengineering]
+		enabled = true
+
 [ProjectEIntegrationRecipeMapper]
 
 	[ProjectEIntegrationRecipeMapper.FarmingForBlockheadsMarketMapper]
