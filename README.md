@@ -18,7 +18,7 @@ Prism, MultiMC, ATLauncher, or any other multi-instance minecraft launcher that 
 
 ### Steps
 
-1. Download the pack [here](https://github.com/NekoDrone/the-republic/releases)
+1. Download the pack [here](https://github.com/NekoDrone/the-republic/releases/latest/download/The_Republic.zip)
 2. Import it into your launcher of choice `Import from zip`.
 3. Ensure that your Java settings are proper. `Settings > Java > General > Java Runtime > Auto-detect`. This pack uses Java 17.
 3. Launch it.
