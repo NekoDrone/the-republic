@@ -1542,7 +1542,7 @@ hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
 [[files]]
 file = "config/fml.toml"
-hash = "7b7d580fbddb34b59cfa2b08130e4514d7f84ddf33bd61e03c25299997ab5f4c"
+hash = "8af1a845056b3cd4d3b2deb9a820d8a097295f3698f52d8ed27204a6e4c13db6"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -2614,7 +2614,7 @@ hash = "42d924e802977220a86205ece0908799de95188e0108d2e29ed1d7232d250a10"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "73992ff5a806f9f29446d23cdd47a6b637a2688874584310bef97c34f675cf5d"
+hash = "95d57849a4d3b80e7cbf0368f951b0e038f6b6f96ddd8379bf14e636eebe6fc0"
 
 [[files]]
 file = "config/xnet-client.toml"
