@@ -3761,6 +3761,11 @@ hash = "b2094c5c675736e1136029828cf90fcefb572335e3e33fd3fe23c635e1211c06"
 metafile = true
 
 [[files]]
+file = "mods/thin-pillars.pw.toml"
+hash = "620975cde25bccd7f903e1cc7bb476804472ea41f3384ea8d74a6b89235e5e9d"
+metafile = true
+
+[[files]]
 file = "mods/time-in-a-bottle-standalone.pw.toml"
 hash = "18d3ca66bb865c79e67fb7369b6f45229cc5b1ed6a083b1b2eee0e3b15d2ec8c"
 metafile = true
