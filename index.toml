@@ -2791,6 +2791,11 @@ hash = "3882c802ffa760a9c7581bb04bde212173edb903d54a931c5cbdf83eff6053b9"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "3f1897a6b66a96097ae508234437d41c2690f874c3e2dc6075e6ec59143210e8"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
