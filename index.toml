@@ -3141,6 +3141,11 @@ hash = "8501d1fa55ba09fb97124bec94be30c0be415187cb55d2a7bdbeb4cf4482bb7f"
 metafile = true
 
 [[files]]
+file = "mods/ironchests.pw.toml"
+hash = "f81ecf36166b015368af6f34313e186c8c1aefea4e0c1d3ed3eb88951a16cdba"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "f5e433c9b3a2e6584efcaa5ac7bb478f1e86959f1df8e01979817a1d99ca5424"
 metafile = true
