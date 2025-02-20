@@ -2314,7 +2314,7 @@ hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "1758d2a3fc488beeede83af27a2322fe1daab6280a55b1fab5e152840a9ee9f3"
+hash = "08c774953c9898ef06fea5ba5d0ddc7815b73a90d194470944eebdc84981094b"
 
 [[files]]
 file = "config/modnametooltip-client.toml"
