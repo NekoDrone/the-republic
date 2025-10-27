@@ -2636,6 +2636,11 @@ hash = "586a96f1e7e173baee46c82faa20a2ffbac35816a38d54f0a7401ec1d0d7bfe9"
 metafile = true
 
 [[files]]
+file = "mods/ae2-qol-recipes.pw.toml"
+hash = "c42744b14e47cb90c7349723ea0aea498d809e1d5b9dfa961ade2e72b74ff265"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
 metafile = true
@@ -2663,6 +2668,31 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "d988799d0503f9e44e7054c55e91fd6ce0ff0dce5302cb4dde1f133819381713"
+metafile = true
+
+[[files]]
+file = "mods/applied-botanics-addon.pw.toml"
+hash = "49ba0a9ec2a81ad6fef5e23df38f70e9d45ae182223646f3a2025b555484f842"
+metafile = true
+
+[[files]]
+file = "mods/applied-cooking.pw.toml"
+hash = "56bc07690051e1188ea862a5bed1ff567e1ba1853cb1f02ad8017b5c2dea3e43"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "513a68850c8b2898212234c8f73a972a133811105899e03b050d14e2ddaad2d1"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "d7dd310a55619b2ab78a8a687a5694c0640b710b7c759e1d4163f2307ed8539d"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "1440014a95f25f1d02b824e63f8dcd3654f042cc6058718d7c626f61e05a04ac"
 metafile = true
 
 [[files]]
@@ -2868,6 +2898,11 @@ metafile = true
 [[files]]
 file = "mods/crash-utilities.pw.toml"
 hash = "2758d099575738f73fe355773bbd28fee02bcf0033a862c2fbddcf165bbbb122"
+metafile = true
+
+[[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "d1736838abaa683d4cc49fec87dabe61b9554edab135b7f9b85317ffb7cb7914"
 metafile = true
 
 [[files]]
@@ -3223,6 +3258,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "38fbc001be74391f468243701fbde93eef6e067a433cdcd84acb7d0750b7054d"
+metafile = true
+
+[[files]]
+file = "mods/lazierae2.pw.toml"
+hash = "27084bd516885e9511c3d22fb143348647284c3124ec76cbcacedbfcfe4941fb"
 metafile = true
 
 [[files]]
@@ -3663,6 +3703,11 @@ metafile = true
 [[files]]
 file = "mods/scalable-cats-force.pw.toml"
 hash = "7fcce54d0244c56482e5a116f248d119952b638382e941c2932a67737b05c7d2"
+metafile = true
+
+[[files]]
+file = "mods/sebastrnlib.pw.toml"
+hash = "cd7a5339652c81f9e489b07036ca24a435c4c8ce87e91c3c2c47c36f7fc604dd"
 metafile = true
 
 [[files]]
